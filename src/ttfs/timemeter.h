@@ -1,3 +1,4 @@
+/** ttfs ver0.1 **/
 #ifndef HEADER_TIMEMETER
 #define HEADER_TIMEMETER
 
